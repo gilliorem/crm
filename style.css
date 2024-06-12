@@ -1,0 +1,30 @@
+:root
+{
+		--main-color: #1E1248;
+		--second-color: #FFED00;
+}
+*
+{
+		font-family: 'Ubuntu';
+} 
+.window-app
+{
+		box-shadow: var(--main-color) 0 0 20px 0;
+		max-width: 375px;
+		min-height: 300px;
+}
+h1
+{
+		text-align: center;
+}
+.connection-window
+{
+		display: flex;
+		flex-direction: column;
+		gap: 2rem;
+		align-items: center;
+}
+.dashboard-window
+{
+		border: orange solid 1px;
+}
