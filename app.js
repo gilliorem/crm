@@ -1,4 +1,3 @@
-console.log("cc");
 const windowApp = document.querySelector(".window-app");
 const connectionWindow = document.querySelector(".connection-window");
 const email = document.querySelector('.email-input');
