@@ -28,3 +28,16 @@ h1
 {
 		border: orange solid 1px;
 }
+.hide 
+{
+		display: none;
+}
+.profile-btn
+{
+    width: 40px;
+    height: 40px;
+    background: none;
+    display: flex;
+    align-items: center;
+    border-radius: 100%;
+}
